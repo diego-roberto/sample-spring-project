@@ -8,7 +8,9 @@ Backend em spring-boot 2.7.9, MVC, utiliza Java 1.8. Database utiliza MariaDb ou
 
 Para executar essa aplicação em modo local, deve-se executar os comandos:
 > mvn clean
+>
 > mvn install
+>
 > mvn spring-boot:run
 >
 
